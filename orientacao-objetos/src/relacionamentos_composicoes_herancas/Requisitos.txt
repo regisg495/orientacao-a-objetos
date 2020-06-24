@@ -1,0 +1,40 @@
+Requisitos
+=============================
+
+O Sistema deve permitir:
+Criar Escritório
+Criar Filial do Escritorio
+Criar Advogado
+Cadastrar Advogado na Filial
+Cadastrar Cliente na Filial
+Adicionar Especialidades ao Advogado
+Criar Cliente
+Cadastrar Cliente
+Excluir Cliente
+Agendar Consulta
+Adicionar Telefones
+Acompanhar Status do Cliente
+Acompanhar Processo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
